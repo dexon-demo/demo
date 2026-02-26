@@ -1,2 +1,2 @@
 First file for git
-first bug fixed
+first bug fixed 2
